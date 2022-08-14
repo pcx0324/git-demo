@@ -1,6 +1,6 @@
+hello,git! 1
 hello,git!
-hello,git!
-hello,git!
+hello,git! 
 hello,git!
 hello,git!
 hello,git!
@@ -8,5 +8,4 @@ hello,git!
 hello,git! master test
 hello,git! hot-fix
 first
-second
 hot-fix
